@@ -1,7 +1,6 @@
 # 嗨，我是AI Apple 👋
 
-# [English](https://github.com/zarazhangrui/zarazhangrui/blob/main/README.md) · 中文
-
+# [English](https://cloudmint.feishu.cn/docx/RLEcdtZI1olSjGxspwHciZRrn2f)[ ](https://cloudmint.feishu.cn/docx/RLEcdtZI1olSjGxspwHciZRrn2f)· 中文
 我是一位充满好奇心的探索者，专注深挖前沿人工智能趋势、工具与实用功能。我没有传统工程背景，至今不会手写一行代码，但我热爱借助人工智能工具和编码代理，将复杂的人工智能概念分解成简单易懂、切实可行的见解。于我而言，代码从不是专业壁垒，而是自我表达、拆解复杂 AI 概念的媒介，我希望通过它输出简单易懂、可落地的实用见解，让所有人都能轻松上手人工智能。
 
 📱 Xiaohongshu: [@aipple\_2025](https://www.xiaohongshu.com/user/profile/6870e46c000000001e03dd16?xsec_token=AB307dSIOOObv6t0IO5k4a8LwQahd74OMEV101H0i-po8%3D&xsec_source=pc_search)
