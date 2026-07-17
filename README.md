@@ -15,7 +15,7 @@
 
 [📦锚](https://github.com/cloudmint-ai/anchor)
 
-anchor仓库主要是一个 **Rust 代码项目**，看起来用途是提供一组宏和封装，帮助开发者更方便地写同步、异步和服务相关的代码
+anchor仓库主要是一个 **Rust 代码项目**，是提供一组宏和封装，帮助开发者更方便地写同步、异步和服务相关的代码
 
 [📡 人工智能新闻](https://github.com/cloudmint-ai/ai_news)
 
